@@ -1,0 +1,19 @@
+.log{
+    background-image: url("https://thumbs.dreamstime.com/b/group-pets-kitten-puppy-raw-isolated-white-41268955.jpg");
+    background-size: cover;
+    background-size: 100%;
+
+}
+.admin{
+    color: black;
+    margin-left: 13cm;
+    margin-right: 13cm;
+    padding-top: 2.5cm;
+    
+}
+.form{
+    padding-left: 19cm;
+}
+.login{
+    margin-left: 40%;
+}

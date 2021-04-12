@@ -1,0 +1,19 @@
+.log{
+    background-image: url("C:\Users\sarat\petsunleashed\src\images\pexels-tranmautritam-2286016.jpg");
+    background-size: cover;
+    background-size: 100%;
+
+}
+.admin{
+    color: black;
+    margin-left: 13cm;
+    margin-right: 13cm;
+    padding-top: 2.5cm;
+    
+}
+.form{
+    padding-left: 19cm;
+}
+.login{
+    margin-left: 40%;
+}
